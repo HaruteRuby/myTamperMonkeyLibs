@@ -51,5 +51,5 @@
         console.log(arrNeed);
         doAllClassListen(arrNeed);
     }, 4000);
-    //alert("已完成");
+    //alert("已完成刷课");
 })();
