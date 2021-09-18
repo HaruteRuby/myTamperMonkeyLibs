@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         注册测绘师继续教育_视频页
 // @namespace    https://rackar.github.io/article_tech/zhuCeCHS_edu.html
-// @version      0.4
+// @version      0.5
 // @description  try to take over the world!
 // @author       rackar
 // @match        http://rsedu.ch.mnr.gov.cn//index/onlineCourseUser/play?*
